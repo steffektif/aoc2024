@@ -1,7 +1,7 @@
-import day04.Day4
+import day05.Day5
 
 fun main() {
 
-    println(Day4().solveB())
+    println(Day5().solveB())
 
 }
